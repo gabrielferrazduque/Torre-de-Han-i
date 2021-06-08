@@ -7,7 +7,7 @@ public class feedbackTorredeHanoi {
 	}
 
 }
-mport java.util.Scanner;
+import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.InputMismatchException;
