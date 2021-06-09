@@ -265,6 +265,26 @@ return index.compareTo(o.index);
 }
 }
 public class HanoiIterativo {
+public class HanoiIterativoTest {
+
+		public HanoiIterativoTest() {
+			// TODO Auto-generated constructor stub
+		}
+
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+
+		}
+
+	}
+public class HanoiIterativo {
+
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+
+		}
+
+	}
 private int qtDiscos;
 private String sequenciaImpares[] = {“A–>C”, “C–>B”, “B–>A”};//para impares
 private String sequenciaPares [] = {“A–>B”, “B–>C”, “C–>A”};//para pares
